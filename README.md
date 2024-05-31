@@ -9,6 +9,9 @@
 
  ![raihank43's GitHub stats](https://github-readme-stats.vercel.app/api?username=raihank43)
 
+ - Also I'm currently honing my fundamental programming (mostly JavaScript) on CodeWars.
+ ![raihank43's GitHub stats](https://www.codewars.com/users/raihank43/badges/large)
+
  
  
 
